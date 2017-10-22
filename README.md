@@ -1,2 +1,2 @@
-# was-ist-seo-wordpress-demo-plugin
-<h1>How to create advanced Wordpress Plugin - Demo</h1>
+<h1>How to create advanced Wordpress Plugin - with <a href="wasistseo.de">Was ist SEO?</a></h1>
+
