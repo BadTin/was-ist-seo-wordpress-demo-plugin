@@ -62,7 +62,7 @@ function wis_settings() {
   wp_die('You can not do this!');
   }
 // get file for config site
-  require_once(dirname(__FILE__) .'/wis-global-conf.php');
+  require_once(dirname(__FILE__) .'/wis-config.php');
   }
 function wis_help() {
   if (!current_user_can('manage_options')) {
