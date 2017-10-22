@@ -22,7 +22,7 @@
 If call direct, DIE!
 */
 if ( ! defined( 'WPINC' ) ) { die; }
-/* 
+
 // ------------------------------------------------------------------------------------------------- start#advanced menu
 function wis_menu_pages() {
 // TopLevel Menu
